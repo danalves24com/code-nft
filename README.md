@@ -1,5 +1,4 @@
-# code-nft
-Easy to use!
+# CodeNFT
 
 # Install
 Just download the latest release .jar
